@@ -17,11 +17,11 @@ git commands cheat sheet
 </code></pre>
 <h2 id="howtosetupyourgitusername">How to setup your Git username:</h2>
 <p>With the command below you can configure your user name:</p>
-<pre><code>git config --global user.name "Fabio"
+<pre><code>git config --global user.name "Asamamun"
 </code></pre>
 <h2 id="howtosetupyourgituseremail">How to setup your Git user email:</h2>
 <p>This command lets you setup the user email address you'll use in your commits.</p>
-<pre><code>git config --global user.email "signups@fabiopacifici.com"
+<pre><code>git config --global user.email "name@domain.com"
 </code></pre>
 <h2 id="howtocacheyourlogincredentialsingit">How to cache your login credentials in Git:</h2>
 <p>You can store login credentials in the cache so you don't have to type them in each time. Just use this command:</p>
